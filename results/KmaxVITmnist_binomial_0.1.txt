@@ -1,0 +1,2 @@
+0: Training Acc.: 85.7791 , Test Acc.: 86.52
+0: Training Acc.: 86.7563 , Test Acc.: 87.53

@@ -2,7 +2,6 @@
 
 This is the code for the paper: KMT-PLL: K-Means Cross-Attention Transformer for Partial Label Learning
 
-Jiaqi Lv, Miao Xu, Lei Feng, Gang Niu, Xin Geng, Masashi Sugiyama
 
 To be presented at IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS.
 
